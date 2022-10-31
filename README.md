@@ -21,4 +21,9 @@ LINK SUMBER DATA :
 
 
 KESIMPULAN :
-  
+Berdasarkan hasil dari pengolahan data diketahui bahwa kita dapat mengolah suatu data agar menghasilkan output seperti yang diinginkan. Dalam hal ini data yang kami gunakan yaitu data Kota Semarang. Untuk memetakan lokasi atau letak geografis dari suatu tempat yang kita inginkan tentu harus melewati beberapa tahapan yaitu:
+1. Getting Data dari WEB Scrapping (memisahkan data yang sudah di Olah)
+2. Cleaning Data
+3. Visualisasikan data
+
+Dengan melalui tahapan- tahapan tersebut data dapat divisualisaskan dengan menggunakan tampilan choropleth map, namun data hasil kami mengalami sedikit error tidak dapat menampilkan coloring pada tampilan choropleth map 
