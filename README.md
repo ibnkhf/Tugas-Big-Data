@@ -12,12 +12,14 @@ NAMA TIM KELOMPOK :
   4.Sriyanti F44119030  
   
   
-  
-  
+
 LINK SUMBER DATA :
  
 1.https://www.dispendukcapil.semarangkota.go.id/statistik/jumlah-penduduk-kota-semarang/2018-12-02.html
 2.https://openstreetmap.id/data-semarang/
 
-  
+
+
+
+KESIMPULAN :
   
